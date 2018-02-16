@@ -1,4 +1,9 @@
+# Syntax Heroes Challenge Group
+- Dan
+- Renee
+
 # Joins Syntax Heroes Challenge
+
 Welcome to the wonderful world of SQL Joins! How strange, huh? We're going to be practicing with some many-to-many relationship using super heroes and super powers.
 
 You will need to set up the data given below and then determine queries that answer the questions at the bottom. This will flex your understanding of both aggregates and joining tables.
