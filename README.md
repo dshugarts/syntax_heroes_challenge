@@ -105,8 +105,8 @@ Create an SQL file with your answers, add it to a repo and push it to Github. Su
 - [ ] Find all of Professor X's powers.
 - [ ] Add a new super power. 
 - [ ] Add this power to an existing hero.
-- [ ] Which heroes have laser vision? Include their name and alias.
-- [ ] How many can fly? A twist on the above...
-- [ ] What is the average super strength power level?
-- [ ] Show all the information for heroes with super strength power level over 2.
-- [ ] Find the average power level for all powers. Include the power name and descriptions.
+- [x] Which heroes have laser vision? Include their name and alias.
+- [x] How many can fly? A twist on the above...
+- [x] What is the average super strength power level?
+- [x] Show all the information for heroes with super strength power level over 2.
+- [x] Find the average power level for all powers. Include the power name and descriptions.
